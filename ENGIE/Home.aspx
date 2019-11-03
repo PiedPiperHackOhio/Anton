@@ -1,8 +1,8 @@
-﻿<%@ Page Language="C#" Inherits="ENGIE.Default" %>
+﻿<%@ Page Language="C#" Inherits="ENGIE.Home" CodeBehind="~/Home.aspx.cs" %>
 <!DOCTYPE html>
 <html>
 <head runat="server">
-	<title>Default</title>
+	<title>tOSU Energy Data</title>
 </head>
 <body>
 	<form id="form1" runat="server">

@@ -1,6 +1,7 @@
-
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ENGIE", "ENGIE\ENGIE.csproj", "{9E7FB5C2-A5DE-4A3A-AC5E-21FBA2908E9B}"
 EndProject
 Global
@@ -13,5 +14,11 @@ Global
 		{9E7FB5C2-A5DE-4A3A-AC5E-21FBA2908E9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E7FB5C2-A5DE-4A3A-AC5E-21FBA2908E9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E7FB5C2-A5DE-4A3A-AC5E-21FBA2908E9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D240401-0D3A-4F22-A3DB-A767F6BF0864}
 	EndGlobalSection
 EndGlobal
